@@ -6,23 +6,14 @@ Trabalhando e analisando os Dados da Educação do Brasil no Enem 2019.
 
 Alguns exemplos de gráficos das análises realizadas:
 
-<img src="./docs/imagem-1.png" width="45%" />
-<img src="./docs/imagem-2.png" width="45%" /> 
-<img src="./docs/imagem-3.png" width="45%" />
-<img src="./docs/imagem-4.png" width="45%" />
-<img src="./docs/imagem-5.png" width="45%" />
-<img src="./docs/imagem-6.png" width="45%" />
-<img src="./docs/imagem-7.png" width="45%" />
-<img src="./docs/imagem-8.png" width="45%" />
-<img src="./docs/imagem-9.png" width="45%" />
-<img src="./docs/imagem-10.png" width="45%" />
-<img src="./docs/imagem-11.png" width="45%" />
-<img src="./docs/imagem-12.png" width="45%" />
-<img src="./docs/imagem-13.png" width="45%" />
-<img src="./docs/imagem-14.png" width="45%" />
-<img src="./docs/imagem-15.png" width="45%" />
-<img src="./docs/imagem-16.png" width="45%" />
-
+<img src="./docs/imagem-1.png" width="45%" /> <img src="./docs/imagem-2.png" width="45%" /> 
+<img src="./docs/imagem-3.png" width="45%" /> <img src="./docs/imagem-4.png" width="45%" />
+<img src="./docs/imagem-5.png" width="45%" /> <img src="./docs/imagem-6.png" width="45%" />
+<img src="./docs/imagem-7.png" width="45%" /> <img src="./docs/imagem-8.png" width="45%" />
+<img src="./docs/imagem-9.png" width="45%" /> <img src="./docs/imagem-10.png" width="45%" />
+<img src="./docs/imagem-11.png" width="45%" /> <img src="./docs/imagem-12.png" width="45%" />
+<img src="./docs/imagem-13.png" width="45%" /> <img src="./docs/imagem-14.png" width="45%" />
+<img src="./docs/imagem-15.png" width="45%" /> <img src="./docs/imagem-16.png" width="45%" />
 
 ## Sobre
 
